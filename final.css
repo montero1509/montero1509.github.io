@@ -1,0 +1,45 @@
+header{
+    background-color: antiquewhite;
+    height:270px;
+    
+}
+article{
+    margin-right:15.8; 
+    margin-left:10;
+}
+img{
+    height:200px;
+    widows:200px;
+    margin:1%;
+}
+#logo{
+    position: absolute;
+    margin-right: 10%;
+    
+}
+#logos{ 
+    position: absolute;
+    margin-left:85%;
+
+
+}
+
+li{
+    border-bottom: solid rgb(100,120,300);
+    display: inline;
+    margin: 3%;
+}
+section{
+    margin:10%;    
+    }
+ul{
+margin-left: 24.6%;
+font: small-caps 100%/200% serif;
+}
+h1{
+margin-top: 6%;
+    margin-left: 25%;
+position:absolute;
+font-size:10px;
+font: small-caps 700%/100% serif;
+} 
